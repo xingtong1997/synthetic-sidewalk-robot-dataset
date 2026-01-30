@@ -4,7 +4,7 @@ This repository provides the simulation data used in the paper:
 
 > **Robust Route Planning for Sidewalk Delivery Robots**  
 > (under review in Transportation Research Part C)  
-> Preprint: https://doi.org/10.48550/arXiv.2507.12067
+<!-- Preprint: https://doi.org/10.48550/arXiv.2507.12067-->
 
 
 The dataset contains 180 randomized simulation instances generated on a controlled synthetic sidewalk network using **PTV VISWALK**.  
