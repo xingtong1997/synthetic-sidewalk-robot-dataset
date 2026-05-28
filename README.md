@@ -1,15 +1,17 @@
 # Synthetic Sidewalk Robot Routing Dataset
 
-This repository provides the simulation data used in the paper:
+This repository provides the simulation data used in the published paper:
 
-> **Robust Route Planning for Sidewalk Delivery Robots**  
-> (under review in Transportation Research Part C)  
+> Xing Tong and Michele D. Simoni (2026).
+> **Robust route planning for sidewalk delivery robots**.
+> *Transportation Research Part C: Emerging Technologies*, 188, 105670.
+> https://doi.org/10.1016/j.trc.2026.105670
 
-
-The dataset contains 180 randomized simulation instances generated on a controlled synthetic sidewalk network using **PTV VISWALK**.  
+The dataset contains 180 randomized simulation instances generated on a controlled synthetic sidewalk network using **PTV VISWALK**.
 It is intended to support reproducibility and further research on robust routing and uncertainty-aware navigation for sidewalk robots.
 
 ---
+
 
 ## 📌 Dataset Overview
 
